@@ -12,7 +12,7 @@ const App = () => {
       <Text>App</Text>
       <Text>App</Text>
       <Text>App</Text>
-      <Link href="/profile" className='text-3xl text-red-600' >Go to profile page</Link>
+      <Link href="/profile" className='text-3xl font-pblack text-red-600' >Go to profile page</Link>
     </View>
   )
 }
